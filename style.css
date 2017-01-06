@@ -1,0 +1,16 @@
+/*
+Theme Name: Twentyseventeen Child Theme
+Theme URI: http://squeznator.com
+Description: A child theme of Twenty Seventeen for Mel's blog
+Author: Jesi Vasquez
+Aurthor URI: http://squeznator.com
+Template: twentyseventeen
+Version: 0.1.0
+*/
+
+@import url("../twentyseventeen/style.css");
+
+.sq-post-comment {
+	font-weight: normal;
+	text-transform: none;
+}
